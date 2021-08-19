@@ -2,16 +2,11 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <title>Document</title>
-        <style>
-            ul.sqr {
-                list-style-type: square;
-            }
-        </style>
     </head>
     <body>
         <div id="top">
             <h1>This project focuses on basic Java application</h1>
-            <ul class="sqr">
+            <ul>
                 <li><a href="#topic1">Output Format</a></li>
                 <li><a href="#topic2">Find Target Number</a>
                 <li><a href="#topic3">String Reverse</a>
