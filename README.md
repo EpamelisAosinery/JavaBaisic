@@ -12,7 +12,53 @@
     <a href="#topic10"><li>Sum Binary</li></a>
     <a href="#11"><li></li></a>
 </ol>
-<div id="topic10"><h3>10. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3></div>
+<div id="topic1"><h3>1. Format Output as index/space/tab/datetime</h3></div>
+<b><i> Example:</i></b>
+ <ul>
+    <li>Binary 1: 101</li>
+    <li>Binary 2: 111</li>
+    <li>Sum Binary: 1100</li>
+</ul>
+<div id="topic2"><h3>2. Store Input as Array and in the Target Number </h3></div>
+<div id="topic3"><h3>3. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3></div>
+<b><i> Example:</i></b>
+ <ul>
+    <li>Binary 1: 101</li>
+    <li>Binary 2: 111</li>
+    <li>Sum Binary: 1100</li>
+</ul>
+<div id="topic4"><h3>4. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3></div>
+<b><i> Example:</i></b>
+ <ul>
+    <li>Binary 1: 101</li>
+    <li>Binary 2: 111</li>
+    <li>Sum Binary: 1100</li>
+</ul>
+<div id="topic5"><h3>5. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3></div>
+<b><i> Example:</i></b>
+ <ul>
+    <li>Binary 1: 101</li>
+    <li>Binary 2: 111</li>
+    <li>Sum Binary: 1100</li>
+</ul>
+<div id="topic6"><h3>6. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3>
+<b><i> Example:</i></b>
+ <ul>
+    <li>Binary 1: 101</li>
+    <li>Binary 2: 111</li>
+    <li>Sum Binary: 1100</li>
+</ul>
+</div>
+<div id="topic7"><h3>7. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3></div>
+<div id="topic8"><h3>8. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3></div>
+<div id="topic9"><h3>9. Create a java program to add two binary numbers. Binary number system has only 0's and 1's</h3>
+<b><i> Example:</i></b>
+ <ul>
+    <li>Binary 1: 101</li>
+    <li>Binary 2: 111</li>
+    <li>Sum Binary: 1100</li>
+</ul>
+</div>
 <h3 id="topic10">10. Create a java program to add two binary numbers. Binary number system has only 0's and 1's.</h3>
 <b><i> Example:</i></b>
  <ul>
