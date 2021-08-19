@@ -56,7 +56,7 @@ public class SumBinary {
         // Print Sum[] in reverse order
         // Add --i to remove 0 in the font of the binary
         --i;
-        System.out.print("Output: ");
+        System.out.print("\nSum of 2 Binary: ");
         while (i >= 0) {
             System.out.print(sum[i--]);
         }
